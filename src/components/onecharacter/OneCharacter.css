@@ -1,0 +1,9 @@
+.basic-btn {
+    width: px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: rgb(4, 107, 107);
+    color: white;
+    border:none;
+}
